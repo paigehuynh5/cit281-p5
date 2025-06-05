@@ -7,7 +7,7 @@ Technologies: JavaScript, Git, GitHub, VS Code
 
 Learned: I learned how to define and use JavaScript classes and constructors; create and manipulate arrays of objects; simulate private properties and methods; implement add and delete functionality using class methods; and organize and store code using GitHub.
 
-![Screenshot of running game](lab5-screenshot.png)
+![Screenshot of running game](lab06-screenshot.png)
 
 ## Project 5
 Purpose: The purpose of this project was to create a web-based game using JavaScript classes, a Node.js game module, and an Express server while connecting it to a browser-based client interface for interactive gameplay.
